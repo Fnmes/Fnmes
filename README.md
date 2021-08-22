@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fnmes
 - 👀 I’m interested in python.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me :
 QQ:574746791
 Email:fnme370679@gmail.com
